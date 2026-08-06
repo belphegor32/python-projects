@@ -1,0 +1,1 @@
+print(2 * max(a := list(map(int, input().split(",")))) < sum(a))
